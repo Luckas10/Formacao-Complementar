@@ -46,5 +46,3 @@ tela.pushButton_2.clicked.connect(listar_dados)
 
 tela.show()
 app.exec()
-
-
