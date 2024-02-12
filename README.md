@@ -21,3 +21,5 @@ O respositório será dividido em cursos, ou seja, cada curso ocupará uma pasta
 Este repositório é mais do que uma simples coleção de arquivos; é um espaço dinâmico destinado a evoluir continuamente com a contribuição de uma comunidade educada e ávida por conhecimento. Juntos, estamos forjando um caminho educativo que brilha com a luz do aprendizado contínuo. Junte-se a nós nessa jornada de descobertas e crescimento!
 
 **Vamos explorar o conhecimento juntos! 🚀**
+
+Para acessar minhas anotações detalhadas e continuar explorando este repositório, visite [este link](https://www.notion.so/Forma-o-complementar-54ffec73976d46568db3729bc099d289).
