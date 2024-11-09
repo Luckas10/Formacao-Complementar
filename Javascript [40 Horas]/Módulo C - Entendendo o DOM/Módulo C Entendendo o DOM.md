@@ -1,7 +1,7 @@
 # Módulo C: Entendendo o DOM
 
 <aside>
-🌍 Este módulo é uma continuação dos módulos anteriores, por isso as aulas seguirão uma ordem cronológica, com isso em mente, esse módulo irá começar a partir da aula 5.
+🌍 Este módulo é uma continuação dos módulos anteriores, por isso as aulas seguirão uma ordem cronológica, com isso em mente, esse módulo irá começar a partir da aula 9.
 
 </aside>
 
