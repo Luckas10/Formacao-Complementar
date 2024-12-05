@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brasileiro ou estrangeiro</title>
+</head>
+<body>
+    
+    <h1>Sistema de Nacionalidade</h1>
+    Sua nacionalidade: <input type="text" name="txtnac" id="txtnac">
+    <input type="button" id="btnVerificar" value="Verificar">
+    <div style="margin-top: 20px;" id="res">
+        Status:
+    </div>
+
+    <script>
+        var btnVerificar = window.document.querySelector('input#btnVerificar')
+        btnVerificar.addEventListener('click', verificar)
+
+        function verificar() {
+            var txtv = window.document.querySelector('input#txtnac')
+            var res = window.document.querySelector('div#res')
+            var nacionalidade = txtv.value.trim()
+
+            if (nacionalidade == 'Brasil' || nacionalidade == 'Brasileiro') {
+                res.innerHTML = `<p> Você é <strong>BRASILEIRO</strong></p>`
+            } else {
+                res.innerHTML = `<p> Você é <strong>ESTRANGEIRO</strong></p>`
+            }
+
+        }
+
+    </script>
+
+</body>
+</html>
