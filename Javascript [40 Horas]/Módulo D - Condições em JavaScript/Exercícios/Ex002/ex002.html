@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Age Checker</title>
+    <link rel="stylesheet" href="style002.css">
+</head>
+<body>
+    <header>
+        <h1>Age Checker</h1>
+    </header>
+
+    <section>
+        <div>
+            <p>
+                Year of Birth: 
+                <input type="number" name="txtano" id="txtyear" min="0">
+            </p>
+            <p>
+                Sex:
+                <input type="radio" name="radsex" id="mas" checked>
+                <label for="mas">Masculine</label>
+                <input type="radio" name="radsex" id="fem">
+                <label for="fem">Feminine</label>
+            </p>
+            <p>
+                <input type="button" value="Verificar" onclick="verificar()">
+            </p>
+        </div>
+        <div id="res">
+            Fill in the details above to see the result!
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; João Lucas</p>
+    </footer>
+
+    <script src="script002.js"></script>
+</body>
+</html>

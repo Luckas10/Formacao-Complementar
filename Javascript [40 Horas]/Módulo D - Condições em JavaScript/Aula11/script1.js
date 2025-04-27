@@ -5,4 +5,4 @@ if (vel > 60) { //Condição simples!
 } else {
 
 }
-comsole.log(`Dirija sempre usando cinto de segurança!`)
+console.log(`Dirija sempre usando cinto de segurança!`)
